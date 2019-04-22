@@ -4,7 +4,8 @@
   "description": "Drag and drop Zone, upload your files either by click inside the zone or by drag it inside the zone",
   "main": "drag-nd-drop-upload-mg.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.test.js",
+    "prepublish": "npm test"
   },
   "author": "abdelhadi habchi",
   "license": "MIT",
