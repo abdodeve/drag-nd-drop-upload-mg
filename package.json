@@ -11,8 +11,10 @@
     "jquery": "3.4.0"
   },
   "keywords": [
+    "Droppable zone UI",
+    "uppy",
     "Drag and drop file",
-    "unput upload",
+    "input upload",
     "file upload",
     "dropzone",
     "drag nd drop zone",
