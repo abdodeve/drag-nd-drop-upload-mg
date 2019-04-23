@@ -7,6 +7,9 @@
     "test": "node index.test.js",
     "prepublish": "npm test"
   },
+   "dependencies": {
+    "jquery": "3.4.0"
+  },
   "author": "abdelhadi habchi",
   "license": "MIT",
   "repository": {
