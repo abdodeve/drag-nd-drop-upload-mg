@@ -10,6 +10,14 @@
   "dependencies": {
     "jquery": "3.4.0"
   },
+   "keywords": [
+    "Drag and drop file",
+    "unput upload",
+    "file upload",
+    "dropzone",
+    "drag nd drop zone",
+    "input type file"
+  ],
   "author": "abdelhadi habchi",
   "license": "MIT",
   "repository": {
