@@ -12,7 +12,7 @@ clone: git clone https://github.com/abdodeve/drag-nd-drop-upload-mg.git
 npm: https://www.npmjs.com/package/drag-nd-drop-upload-mg
 
 * **Installation:** npm i drag-nd-drop-upload-mg
-
+* **Demo:** https://codepen.io/abdelhadi-ahmed-adev/pen/WWgZOv
 
 
 ## Built With
