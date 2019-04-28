@@ -26,7 +26,8 @@ Please read for details on our code of conduct, and the process for submitting p
 
 ## Authors
 
-* **Abdelhadi Habchi** - *Initial work & FullStack developer* - [AbdelhadiDev](https://abdelhadidev.com)
+* **Abdelhadi Habchi** - *Php/Nodejs/Angular - FullStack developer* - [AbdelhadiDev](https://abdelhadidev.com)
+* **Taoufik Douhi** - *Java/Angular - FullStack developer* - [TaoufikDouhi](https://github.com/tchiko23)
 
 ## License
 
